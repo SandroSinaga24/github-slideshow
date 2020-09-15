@@ -2,5 +2,5 @@
 layout : slide
 title : "Welcome to our second slide !"
 ---
-Your test
+Keeping the rules will lead you down the right path
 use the left arrow to go back
